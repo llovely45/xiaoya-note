@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "xiaoya-note",
   description: "小雅指南笔记",
+  outDir: '../dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' }
