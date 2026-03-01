@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as t,ae as p}from"./chunks/framework.BvHJbMD4.js";const g=JSON.parse('{"title":"四、使用指南","description":"","frontmatter":{},"headers":[],"relativePath":"usage.md","filePath":"usage.md"}'),e={name:"usage.md"};function n(l,s,h,o,k,r){return i(),t("div",null,[...s[0]||(s[0]=[p("",95)])])}const E=a(e,[["render",n]]);export{g as __pageData,E as default};
